@@ -88,6 +88,7 @@ The last thing we're going to do is prove the power of reusable components using
 
 👉 Back at the app level, add at least two other items by reusing your `Item` component.
 
-👉 For each one, **hand in** a prop of `font`; in each instance of the `Item`'s `font` prop, hand in a different font's name of your choice (you can use built-in [CSS font names](https://www.tutorialbrain.com/css_tutorial/css_font_family_list/) just like the font names you'd use in your CSS normally) to each `Item`. Your objective is to have each `Item` render the same text that the user inputs in a different font.👺👺👺👺👺👺👺 I AM HERE!! 👺👺👺👺👺
+👉 For each one, **hand in** a prop of `font`; in each instance of the `Item`'s `font` prop, hand in a different font's name of your choice (you can use built-in [CSS font names](https://www.tutorialbrain.com/css_tutorial/css_font_family_list/) just like the font names you'd use in your CSS normally) to each `Item`. Your objective is to have each `Item` render the same text that the user inputs in a different font.
 
 Now load up your app again in the browser, type in a word, and bask in the glory of your React typeface extravaganza!
+👺👺👺👺👺👺👺 THIS IS WORKING BUT NOT SURE THE PROCESS FOR IT WORKING IS CORRECT 👺👺👺👺👺

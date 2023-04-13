@@ -17,8 +17,8 @@ function App() {
       <h1>JSX will go here!</h1>
       <Input onChange={handleChange} text={text} />
       <Item text={text} font={font} />
-      <Item text="Example item 2" font="Times New Roman" />
-      <Item text="Example item 3" font="Courier New" />
+      <Item text={text} font="Times New Roman" />
+      <Item text={text} font="Courier New" />
     </div>
   );
 }
